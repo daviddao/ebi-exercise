@@ -10,9 +10,11 @@ Basic Sequence Alignment Statistics
 1.) Write a function returning the total number of a,c,g and t in a given dna sequence 
 2.) Improve the function, it should return the proportion of a,c,g and t till index i
 3.) Write a function which compares two dna strands (human_1 and human_2) and returning the index of variations
+4.) Export the three functions seperately
 
 Hint: Use CharAt(index) to access the char in a string at a specific index
 Hint: Use push(element) to push an additional element to an array
+Hint: Use exports.[name] = [originalFunctionName] to export a single function 
 -------------
 */
 
