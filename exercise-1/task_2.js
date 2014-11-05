@@ -17,12 +17,12 @@ Hint: Use push(element) to push an additional element to an array
 */
 
 
-function totalNumberOf(dna){
+function totalNumberOf1(dna){
   //Your Code!
   //Should return [number of a, number of c, number of g, number of t]
 }
 
-function totalNumberOf(dna,index){
+function totalNumberOf2(dna,index){
   //Your Code!
   //Should return [number of a / total, number of c / total, number of g /total, number of t /total]
   //till index i
